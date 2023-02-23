@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi , I'm Nhlonipho Nkwinika</h1>
+<h1>About me:</h1>
 <h3 align="center">I'm an aspiring Full-stack developer from South Africa</h3>
 
 
 
 
-- 🔭 I’m currently working on **Vanilla Weather forecast**
+- 🔭 I’m currently working on **Vanilla Weather forecast Project using open weather API**
 
 - 🌱 I’m currently learning **C programming, Data Structures and Algorithms and Linux/Command line with ALX&Holberton, Front-end development with SheCodes Foundation**
 
