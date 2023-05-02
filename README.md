@@ -14,14 +14,13 @@
 
 - 📫 How to reach me **hloninkwinika@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fVnirV5u8qwrbqRcPfYoj4xZbBdsFOLS/view](https://drive.google.com/file/d/1fVnirV5u8qwrbqRcPfYoj4xZbBdsFOLS/view)
 
 - ⚡ Fun fact **One of the things I love about being a full stack developer is that I get to see a project come to life from start to finish. Whether I'm creating a responsive UI, setting up a database schema, or optimizing code for performance, I'm constantly learning and pushing my skills to the next level.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nhloninkwinika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nhloninkwinika" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nhlonipho nkwinika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhlonipho nkwinika" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nhlonipho-nkwinika-a30306257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhlonipho nkwinika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
