@@ -7,15 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **C programming, Data Structures and Algorithms and Linux/Command line with ALX&Holberton, Front-end development with SheCodes Foundation**
-
-- 💬 Ask me about **Anything in my profile**
-
+- 🌱 I’m currently learning **Software Engineering with ALX and Holberton, Front-end development with SheCodes Foundation**
 
 - 📫 How to reach me **hloninkwinika@gmail.com**
 
 
-- ⚡ Fun fact **One of the things I love about being a full stack developer is that I get to see a project come to life from start to finish. Whether I'm creating a responsive UI, setting up a database schema, or optimizing code for performance, I'm constantly learning and pushing my skills to the next level.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
