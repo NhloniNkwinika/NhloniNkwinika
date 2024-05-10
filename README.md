@@ -7,7 +7,6 @@
 
 
 
-- 🌱 I’m currently learning **Software Engineering with ALX and Holberton, Front-end development with SheCodes Foundation**
 
 - 📫 How to reach me **hloninkwinika@gmail.com**
 
