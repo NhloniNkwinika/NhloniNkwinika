@@ -1,6 +1,5 @@
 
-<h1>About me:</h1>
-<h3 align="center">I'm an aspiring Full-stack developer and Cloud Engineer from South Africa</h3>
+
 
 
 
